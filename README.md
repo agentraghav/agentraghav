@@ -3,8 +3,7 @@
  My name is Raghvendra Singh Rathore aka @agentraghav, a learner, problem solver and software developer/MERN stack engineer. I am from India and currently working at Jalan technology Consulting.
  I like do develop full stack web application and contribute to open source projects. You can get in touch with me on [![LinkedIn][1.2]][1].
 
-[![AgentRaghav's GitHub stats](https://github-readme-stats.vercel.app/api?username=agentraghav)](https://github.com/anuraghazra/github-readme-stats)
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=agentraghav&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=gotham" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agentraghav&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
